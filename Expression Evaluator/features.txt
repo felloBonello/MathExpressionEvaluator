@@ -1,0 +1,2 @@
+All functional requirments have been implemented other than the result feature.
+I have used RPN arcitecture # 3: operation polymorph.
